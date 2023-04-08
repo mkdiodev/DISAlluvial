@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mssql": "^9.1.1",
+    "sequelize": "^6.30.0"
+  }
+}
